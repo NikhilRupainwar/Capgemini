@@ -1,0 +1,6 @@
+C:\Users\nrupainw\Desktop\cap\project\Lab11Question1\Lab11Question1\bin\Debug\Lab11Question1.exe.config
+C:\Users\nrupainw\Desktop\cap\project\Lab11Question1\Lab11Question1\bin\Debug\Lab11Question1.exe
+C:\Users\nrupainw\Desktop\cap\project\Lab11Question1\Lab11Question1\bin\Debug\Lab11Question1.pdb
+C:\Users\nrupainw\Desktop\cap\project\Lab11Question1\Lab11Question1\obj\Debug\Lab11Question1.csprojResolveAssemblyReference.cache
+C:\Users\nrupainw\Desktop\cap\project\Lab11Question1\Lab11Question1\obj\Debug\Lab11Question1.exe
+C:\Users\nrupainw\Desktop\cap\project\Lab11Question1\Lab11Question1\obj\Debug\Lab11Question1.pdb
