@@ -1,0 +1,9 @@
+D:\Lab8\CSharpSamples\StudentManagementSystem\SMSException\bin\Debug\SMSException.dll
+D:\Lab8\CSharpSamples\StudentManagementSystem\SMSException\bin\Debug\SMSException.pdb
+D:\Lab8\CSharpSamples\StudentManagementSystem\SMSException\obj\Debug\SMSException.dll
+D:\Lab8\CSharpSamples\StudentManagementSystem\SMSException\obj\Debug\SMSException.pdb
+C:\Users\nrupainw\Desktop\cap\M2\StudentManagementSystem\SMSException\bin\Debug\SMSException.dll
+C:\Users\nrupainw\Desktop\cap\M2\StudentManagementSystem\SMSException\bin\Debug\SMSException.pdb
+C:\Users\nrupainw\Desktop\cap\M2\StudentManagementSystem\SMSException\obj\Debug\SMSException.csprojResolveAssemblyReference.cache
+C:\Users\nrupainw\Desktop\cap\M2\StudentManagementSystem\SMSException\obj\Debug\SMSException.dll
+C:\Users\nrupainw\Desktop\cap\M2\StudentManagementSystem\SMSException\obj\Debug\SMSException.pdb

@@ -1,0 +1,9 @@
+D:\Lab8\CSharpSamples\StudentManagementSystem\StudentEntity\bin\Debug\StudentEntity.dll
+D:\Lab8\CSharpSamples\StudentManagementSystem\StudentEntity\bin\Debug\StudentEntity.pdb
+D:\Lab8\CSharpSamples\StudentManagementSystem\StudentEntity\obj\Debug\StudentEntity.dll
+D:\Lab8\CSharpSamples\StudentManagementSystem\StudentEntity\obj\Debug\StudentEntity.pdb
+C:\Users\nrupainw\Desktop\cap\M2\StudentManagementSystem\StudentEntity\bin\Debug\StudentEntity.dll
+C:\Users\nrupainw\Desktop\cap\M2\StudentManagementSystem\StudentEntity\bin\Debug\StudentEntity.pdb
+C:\Users\nrupainw\Desktop\cap\M2\StudentManagementSystem\StudentEntity\obj\Debug\StudentEntity.csprojResolveAssemblyReference.cache
+C:\Users\nrupainw\Desktop\cap\M2\StudentManagementSystem\StudentEntity\obj\Debug\StudentEntity.dll
+C:\Users\nrupainw\Desktop\cap\M2\StudentManagementSystem\StudentEntity\obj\Debug\StudentEntity.pdb
