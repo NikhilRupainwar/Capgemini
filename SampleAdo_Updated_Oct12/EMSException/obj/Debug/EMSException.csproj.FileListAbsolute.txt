@@ -1,0 +1,5 @@
+C:\Lab2\19Sep\SampleAdo_Updated\EMSException\bin\Debug\EMSException.dll
+C:\Lab2\19Sep\SampleAdo_Updated\EMSException\bin\Debug\EMSException.pdb
+C:\Lab2\19Sep\SampleAdo_Updated\EMSException\obj\Debug\EMSException.dll
+C:\Lab2\19Sep\SampleAdo_Updated\EMSException\obj\Debug\EMSException.pdb
+C:\Lab2\19Sep\SampleAdo_Updated\EMSException\obj\Debug\EMSException.csprojResolveAssemblyReference.cache

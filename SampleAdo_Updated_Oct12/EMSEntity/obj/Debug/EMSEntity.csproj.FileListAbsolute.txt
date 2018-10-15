@@ -1,0 +1,4 @@
+C:\Lab2\19Sep\SampleAdo_Updated\EMSEntity\bin\Debug\EMSEntity.dll
+C:\Lab2\19Sep\SampleAdo_Updated\EMSEntity\bin\Debug\EMSEntity.pdb
+C:\Lab2\19Sep\SampleAdo_Updated\EMSEntity\obj\Debug\EMSEntity.dll
+C:\Lab2\19Sep\SampleAdo_Updated\EMSEntity\obj\Debug\EMSEntity.pdb

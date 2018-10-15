@@ -1,0 +1,28 @@
+﻿<Window x:Class="SampleAdo.SearchandUpdate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SampleAdo"
+        mc:Ignorable="d"
+        Title="SearchandUpdate" Height="300" Width="600">
+    <Grid Margin="0,0,3.333,-0.333">
+        <Label x:Name="lbl_empId" Content="Employee Id" HorizontalAlignment="Left" Margin="77,43,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_empId" HorizontalAlignment="Left" Height="23" Margin="196,44,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"  />
+        <StackPanel Name="stpnl_Emp" Height=" 200" Margin="61,75,330,-4" Visibility="Hidden">
+
+            <Label x:Name="lbl_eName" Content="Employee Name" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+            <TextBox x:Name="txt_eName" HorizontalAlignment="Left" Height="23"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+            <Label x:Name="lbl_eLoc" Content="Employee Location" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+            <TextBox x:Name="txt_eLoc" HorizontalAlignment="Left" Height="23"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+            <Label x:Name="lbl_ePh" Content="Employee Contact" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+            <TextBox x:Name="txt_ePh" HorizontalAlignment="Left" Height="23"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+            <Button x:Name="btn_updateEmp" Content="Update" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="98" RenderTransformOrigin="0.05,0.808" Height="30" Click="btn_updateEmp_Click"/>
+
+        </StackPanel>
+        <Button x:Name="btn_searchEmp" Content="Search Employee" HorizontalAlignment="Left" Margin="401,43,0,0" VerticalAlignment="Top" Width="98" RenderTransformOrigin="0.467,1.802" Height="32" Click="btn_searchEmp_Click" />
+        <Button x:Name="btn_DisplayEmp" Content="Add/Display Employee" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="98" RenderTransformOrigin="0.467,1.802" Height="32" Click="btn_DisplayEmp_Click" Margin="401,105,0,0" />
+
+    </Grid>
+</Window>
